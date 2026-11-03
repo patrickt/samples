@@ -1,4 +1,5 @@
 {
+  "_base": "https://raw.githubusercontent.com/patrickt/samples/main/",
   "pt_halo": {
     "c3": "halo.wav"
   }
